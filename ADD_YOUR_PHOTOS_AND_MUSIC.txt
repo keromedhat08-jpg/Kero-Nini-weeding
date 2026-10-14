@@ -1,0 +1,8 @@
+Place your files in this folder using these exact names:
+- cover.jpg
+- photo-1.jpg
+- photo-2.jpg
+- photo-3.jpg
+- music.mp3
+
+Use your own photos and music you have permission to use. The site can be published before adding them, but image slots will be empty until you add photos.
